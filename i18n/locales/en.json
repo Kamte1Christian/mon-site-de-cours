@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About"
+  },
+  "footer": {
+    "allRightsReserved": "All rights reserved"
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome",
+      "subtitle": "Learn with us",
+      "bookCourse": "Book a course",
+      "viewProgram": "View our programs",
+      "specialOffer": "Special offer available"
+    },
+    "services": {
+      "title": "Our services",
+      "computer": {
+        "title": "Computer courses",
+        "description": "Learn computer basics",
+        "item1": "Personalized lessons",
+        "item2": "Full support",
+        "item3": "Certificate"
+      },
+      "homeClasses": {
+        "title": "Home classes",
+        "description": "Courses at your home",
+        "item1": "Flexibility",
+        "item2": "Comfort",
+        "item3": "Efficiency"
+      },
+      "learnMore": "Learn more"
+    },
+    "whyChoose": {
+      "title": "Why choose us",
+      "reason1": {
+        "title": "Experience",
+        "desc": "Over 10 years of experience"
+      },
+      "reason2": {
+        "title": "Quality",
+        "desc": "High quality courses"
+      },
+      "reason3": {
+        "title": "Results",
+        "desc": "Guaranteed results"
+      }
+    },
+    "cta": {
+      "title": "Ready to get started?",
+      "subtitle": "Contact us today",
+      "button": "Contact us"
+    }
+  },
+  "about": {
+    "title": "About",
+    "subtitle": "Discover our story",
+    "who": {
+      "title": "Who we are",
+      "description": "We are a team of professionals",
+      "qualification1": {
+        "title": "Qualification 1",
+        "desc": "Description qualification 1"
+      },
+      "qualification2": {
+        "title": "Qualification 2",
+        "desc": "Description qualification 2"
+      },
+      "qualification3": {
+        "title": "Qualification 3",
+        "desc": "Description qualification 3"
+      },
+      "qualification4": {
+        "title": "Qualification 4",
+        "desc": "Description qualification 4"
+      }
+    },
+    "mission": {
+      "title": "Our mission",
+      "description": "Our mission is to provide quality education"
+    },
+    "values": {
+      "value1": {
+        "title": "Excellence",
+        "desc": "We strive for excellence in everything we do"
+      },
+      "value2": {
+        "title": "Team",
+        "desc": "A dedicated and professional team"
+      },
+      "value3": {
+        "title": "Safety",
+        "desc": "Your safety is our priority"
+      }
+    },
+    "testimonials": {
+      "title": "Testimonials",
+      "testimonial1": {
+        "text": "Excellent service",
+        "name": "John",
+        "location": "New York"
+      },
+      "testimonial2": {
+        "text": "Very satisfied",
+        "name": "Jane",
+        "location": "London"
+      }
+    },
+    "cta": {
+      "title": "Ready to learn more?",
+      "subtitle": "Contact us for more information",
+      "button": "Contact us"
+    }
+  },
+  "pricing": {
+    "title": "Pricing",
+    "subtitle": "Discover our pricing"
+  },
+  "computerCourses": {
+    "title": "Computer courses",
+    "subtitle": "Learn computer science with us"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "We would love to hear from you"
+  },
+  "homeClasses": {
+    "title": "Home classes",
+    "subtitle": "Personalized courses at your home"
+  }
+}

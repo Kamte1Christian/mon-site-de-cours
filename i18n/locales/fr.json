@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos"
+  },
+  "footer": {
+    "allRightsReserved": "Tous droits réservés"
+  },
+  "home": {
+    "hero": {
+      "title": "Bienvenue",
+      "subtitle": "Apprenez avec nous",
+      "bookCourse": "Réserver un cours",
+      "viewProgram": "Voir nos programmes",
+      "specialOffer": "Offre spéciale disponible"
+    },
+    "services": {
+      "title": "Nos services",
+      "computer": {
+        "title": "Cours informatiques",
+        "description": "Apprenez les bases de l'informatique",
+        "item1": "Leçons personnalisées",
+        "item2": "Support complet",
+        "item3": "Certificat"
+      },
+      "homeClasses": {
+        "title": "Cours à domicile",
+        "description": "Cours à votre domicile",
+        "item1": "Flexibilité",
+        "item2": "Confort",
+        "item3": "Efficacité"
+      },
+      "learnMore": "En savoir plus"
+    },
+    "whyChoose": {
+      "title": "Pourquoi nous choisir",
+      "reason1": {
+        "title": "Expérience",
+        "desc": "Plus de 10 ans d'expérience"
+      },
+      "reason2": {
+        "title": "Qualité",
+        "desc": "Cours de haute qualité"
+      },
+      "reason3": {
+        "title": "Résultats",
+        "desc": "Résultats garantis"
+      }
+    },
+    "cta": {
+      "title": "Prêt à commencer?",
+      "subtitle": "Contactez-nous dès aujourd'hui",
+      "button": "Nous contacter"
+    }
+  },
+  "about": {
+    "title": "À propos",
+    "subtitle": "Découvrez notre histoire",
+    "who": {
+      "title": "Qui sommes-nous",
+      "description": "Nous sommes une équipe de professionnels",
+      "qualification1": {
+        "title": "Qualification 1",
+        "desc": "Description qualification 1"
+      },
+      "qualification2": {
+        "title": "Qualification 2",
+        "desc": "Description qualification 2"
+      },
+      "qualification3": {
+        "title": "Qualification 3",
+        "desc": "Description qualification 3"
+      },
+      "qualification4": {
+        "title": "Qualification 4",
+        "desc": "Description qualification 4"
+      }
+    },
+    "mission": {
+      "title": "Notre mission",
+      "description": "Notre mission est d'offrir une éducation de qualité"
+    },
+    "values": {
+      "value1": {
+        "title": "Excellence",
+        "desc": "Nous visons l'excellence dans tout ce que nous faisons"
+      },
+      "value2": {
+        "title": "Équipe",
+        "desc": "Une équipe dévouée et professionnelle"
+      },
+      "value3": {
+        "title": "Sécurité",
+        "desc": "Votre sécurité est notre priorité"
+      }
+    },
+    "testimonials": {
+      "title": "Témoignages",
+      "testimonial1": {
+        "text": "Excellent service",
+        "name": "Jean",
+        "location": "Paris"
+      },
+      "testimonial2": {
+        "text": "Très satisfait",
+        "name": "Marie",
+        "location": "Lyon"
+      }
+    },
+    "cta": {
+      "title": "Prêt à en savoir plus?",
+      "subtitle": "Contactez-nous pour plus d'informations",
+      "button": "Contactez-nous"
+    }
+  },
+  "pricing": {
+    "title": "Tarifs",
+    "subtitle": "Découvrez nos tarifs"
+  },
+  "computerCourses": {
+    "title": "Cours informatiques",
+    "subtitle": "Apprenez l'informatique avec nous"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Nous serions heureux de vous entendre"
+  },
+  "homeClasses": {
+    "title": "Cours à domicile",
+    "subtitle": "Cours personnalisés chez vous"
+  }
+}
